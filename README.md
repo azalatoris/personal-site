@@ -1,2 +1,2 @@
-# PersonalSite
+# personal-site
 Simple Personal Site 
