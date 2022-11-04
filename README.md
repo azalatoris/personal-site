@@ -1,2 +1,2 @@
-# personal-site
-Simple Personal Site 
+# Personal Site
+Simple Personal Site to rework 
