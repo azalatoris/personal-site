@@ -1,2 +1,2 @@
 # Personal Site
-Simple Personal Site to rework 
+Personal Site from the days when Algirdas Recruited. 
